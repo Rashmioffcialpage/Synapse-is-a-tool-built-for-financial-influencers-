@@ -1,4 +1,4 @@
-# Synapse 🚀💡
+# Synapse --------Columbia Iterate x Hackathon won this as pre finalist forst team🚀💡
 
 **Synapse** is an AI-powered tool that automatically analyzes corporate earnings calls to surface key red flags, helping financial content creators cut through the noise and highlight what really matters. 📊🎙️
 
